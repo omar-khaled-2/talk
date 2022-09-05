@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">talk</string>
+    <string name="create_room">Create Room</string>
+    <string name="limit">Limit</string>
+    <string name="language">Language</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="topic">Topic</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="improve_your_language">Improve your language</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="login_with_email">Login with email</string>
+    <string name="join_room">Join room</string>
+    <string name="level">Level</string>
+    <string name="name">Name</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="send_message">Send message</string>
+
+</resources>
